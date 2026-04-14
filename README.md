@@ -14,4 +14,4 @@ This is a simple Python program that calculates rent, food, and electricity bill
 Run the Python file and enter the required inputs.
 
 ## Author
-Ahsan
+Ahsan Ijaz
